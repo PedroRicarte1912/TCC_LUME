@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406647018889",
+    "project_id": "lumebd-e89af",
+    "storage_bucket": "lumebd-e89af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406647018889:android:15b194db215d064d4cfd58",
+        "android_client_info": {
+          "package_name": "com.univap.lume"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHo75yovNl9oYCa5927f4MSoq_d6xXxTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
